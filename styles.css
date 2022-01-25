@@ -1,0 +1,39 @@
+/* ********* elements ********  */
+
+body{
+    margin: 0;
+}
+
+main{
+    height: 800px;
+    background-color: #3B3D3F;
+}
+
+header{
+    display:flex;
+    justify-content: space-evenly;
+    padding-top:53px
+}
+
+nav{
+    width: 32.5%;
+    display: flex;
+    justify-content: space-between;
+}
+
+a{
+    color: #ffffff;
+    text-decoration: none;
+    margin-right: 1rem;
+}
+
+
+/* ********* .Class ********* */
+.socialMedia{
+    display: flex;
+    justify-content: space-between;
+}
+
+.socialMedia img{
+    height: 15px;
+}

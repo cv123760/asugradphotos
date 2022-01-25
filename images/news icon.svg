@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 22 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-1025,-47)">
+        <g transform="matrix(1,-0,-0,1,1025,47)">
+            <use xlink:href="#_Image1" x="0.011" y="1.055" width="21.988px" height="15.015px" transform="matrix(0.999465,0,0,0.938455,0,0)"/>
+        </g>
+    </g>
+    <defs>
+        <image id="_Image1" width="22px" height="16px" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAQCAYAAAAS7Y8mAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAA+ElEQVQ4jbXTMUoDQRSA4S9biiABEdHGXtII7wAaBI8gdvZpcgO1EexU7Oxs9ARiJ2ghPAsRhFzB0toELZJAEiWYZP27gZmPmd2ZignKzDp2sY0CTziJiOfRuZUJ0H1c9sDBPtGMiIuxcGbuoYlV3OIaGzges5E2IiJefoUzs4Hzv55ipLuI2PkBZ+Yc3jE/JfyBakR8Mfy9ajOgsICV/mAQXpsB7VcdgjNzGUclwFeZuQSVzFzEPdZLgOENm4Xu1SoL1bMaBbZKRPvVC+Xutl+tQOsf4Fah+2TL7qbAGR5LRB9wWkREW/cHHuIVnSmwTm/tAeoR0fkGGO46T0d+ZxkAAAAASUVORK5CYII="/>
+    </defs>
+</svg>

@@ -3,16 +3,16 @@
 body{
     margin: 0;
 }
-
 main{
-    height: 800px;
     background-color: #3B3D3F;
 }
 
 header{
     display:flex;
     justify-content: space-evenly;
-    padding-top:53px
+    padding-top:53px;
+    background-color: #3B3D3F;
+
 }
 
 header img{
@@ -32,15 +32,37 @@ a{
 }
 
 
+
 /* ********* .Class ********* */
 .socialMedia{
     display: flex;
     justify-content: space-between;
 }
 
+.headline{
+    color: white;
+    max-width: 470.9px;
+    margin: 0 auto;
+    text-align: center;
+}
+
 .menu{
     display: none;
 }
+
+.container{
+    display: flex;
+    align-items: center;
+    height: 80vh;
+}
+
+.logo{
+    height: 63px;
+}
+
+
+
+/* ****** < 800px screan ****** */
 
 @media(max-width: 800px){
     header{
@@ -49,6 +71,9 @@ a{
     }
 }
 
+
+
+/* ******* < 675px ********* */
 @media(max-width: 675px){
     .menu{
         display: block;

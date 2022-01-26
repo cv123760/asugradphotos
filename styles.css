@@ -35,13 +35,22 @@ a{
     margin-right: 1rem;
 }
 
+p{
+    margin: 0;
+    text-align: center;
+
+}
+
 p, a{
     font-family: 'Roboto', sans-serif;
 }
 
 h1{
     font-family: 'Roboto', sans-serif;
+    margin: 0;
+    text-align: center;
 }
+
 
 
 
@@ -73,13 +82,16 @@ h1{
     height: 63px;
 }
 
-.section2{
-    background-color: #F9F9F9;
+.subtitle{
+    margin-top: 22.6px;
 }
 
-.section2 h1, p{
-    text-align: center;
+.section2{
+    background-color: #F9F9F9;
+    padding: 113.9px 0;
 }
+
+
 
 .blueButton{
     margin: 0 auto;
@@ -94,6 +106,7 @@ h1{
 }
 
 .paragraphs{
+    margin: 73.2px 0 56px 0;
     display: flex;
     justify-content: space-evenly;
 }
@@ -102,6 +115,24 @@ h1{
     max-width: 34%;
 }
 
+
+
+.section3{
+
+}
+
+.employee{
+    width: 313px;
+    height: 400px;
+}
+
+.img{
+    background-color: #666666;
+    height: 150px;
+    width: 150px;
+    border-radius: 100%;
+    margin: 0 auto;
+}
 
 
 

@@ -60,6 +60,32 @@ a{
     height: 63px;
 }
 
+.section2{
+    background-color: #F9F9F9;
+}
+
+.section2 h1, p{
+    text-align: center;
+}
+
+.section2 a{
+    background-color: #2D71F1;
+    padding: 17.2px 42.35px;
+    border-radius: 53px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.paragraphs{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.description{
+    max-width: 34%;
+}
+
+
 
 
 /* ****** < 800px screan ****** */

@@ -68,11 +68,15 @@ a{
     text-align: center;
 }
 
-.section2 a{
+.blueButton{
+    margin: 0 auto;
+    width: fit-content;
+}
+
+.blueButton a{
     background-color: #2D71F1;
     padding: 17.2px 42.35px;
     border-radius: 53px;
-    margin: 0 auto;
     text-align: center;
 }
 
@@ -107,5 +111,14 @@ a{
     
     nav, .socialMedia{
         display: none;
-    };
+    }
+
+    .paragraphs{
+        flex-wrap: wrap;
+    }
+
+    .description{
+        min-width: 90%;
+    }
+
 }

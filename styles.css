@@ -12,7 +12,7 @@ header{
     justify-content: space-evenly;
     padding-top:53px;
     background-color: #3B3D3F;
-
+    font-size: 1rem;
 }
 
 header img{
@@ -25,11 +25,24 @@ nav{
     justify-content: space-between;
 }
 
+nav a:hover{
+    text-decoration: underline;
+}
+
 a{
     color: #ffffff;
     text-decoration: none;
     margin-right: 1rem;
 }
+
+p, a{
+    font-family: 'Roboto', sans-serif;
+}
+
+h1{
+    font-family: 'Roboto', sans-serif;
+}
+
 
 
 

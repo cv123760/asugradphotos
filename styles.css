@@ -143,7 +143,7 @@ h3{
 
 .section4{
     background-color: #2D71F1;
-    height: 639px;
+    min-height: 639px;
     color: white;
     padding-top: 111.4px;
 }
@@ -156,9 +156,28 @@ h3{
 .horizontalLine{
     height: 0;
     border: 1px solid #FFFFFF;
+    margin-top: 42px;
+    margin-bottom: 31.2px;
 }
 
+.alingLeft p, .alingLeft h3 {
+    text-align: left;
+}
 
+.section5{
+    background-color: #F9F9F9;
+    min-height: 520px;
+    color: black;
+    padding-top: 111.4px;
+    display: flex;
+    justify-content: space-evenly;
+}
+ 
+.section5 .img{
+    height: 300px;
+    width: 300px;
+    margin: 0;
+}
 
 
 

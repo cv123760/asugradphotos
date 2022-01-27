@@ -51,6 +51,12 @@ h1{
     text-align: center;
 }
 
+h3{
+    text-align: center;
+}
+
+
+
 
 
 
@@ -118,7 +124,7 @@ h1{
 
 
 .section3{
-
+    padding-top: 40px;
 }
 
 .employee{
@@ -131,8 +137,28 @@ h1{
     height: 150px;
     width: 150px;
     border-radius: 100%;
-    margin: 0 auto;
+    margin: 0 auto 20px auto;
 }
+
+
+.section4{
+    background-color: #2D71F1;
+    height: 639px;
+    color: white;
+    padding-top: 111.4px;
+}
+
+.font34{
+    font-size: 2.125rem;
+    text-align: left;
+}
+
+.horizontalLine{
+    height: 0;
+    border: 1px solid #FFFFFF;
+}
+
+
 
 
 
@@ -162,7 +188,8 @@ h1{
     }
 
     .description{
-        min-width: 90%;
+        min-width: 80%;
+        margin-bottom: 30px;
     }
 
 }
